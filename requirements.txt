@@ -1,1 +1,8 @@
 streamlit
+rdkit
+numpy
+scipy
+scikit-learn
+statsmodel
+plotly
+seaborn
